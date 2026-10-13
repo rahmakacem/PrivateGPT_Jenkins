@@ -4,6 +4,10 @@
 
 It works like a log intelligence tool, so you don't have to dig through multiple dashboards when something breaks.
 
+
+https://github.com/user-attachments/assets/2615612b-46b5-4b45-86e3-1089e23cb425
+
+
 ---
 
 ## Quick Start
